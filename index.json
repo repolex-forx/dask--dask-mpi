@@ -1,0 +1,11 @@
+{
+  "org": "dask",
+  "repo": "dask-mpi",
+  "versions": [
+    {
+      "commit": "66080ec0dd57228922a2ecba00fbb190d8bd53ed",
+      "tag": "",
+      "parsed_at": "2026-10-28T11:21:19.342883+00:00"
+    }
+  ]
+}
